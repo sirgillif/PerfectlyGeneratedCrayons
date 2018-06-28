@@ -49,9 +49,13 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
+    "crypto-js": "^3.1.9-1",
     "dotenv": "^2.0.0",
+    "ipfs-api": "^22.1.1",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "semantic-ui-react": "^0.81.3",
+    "web3": "^1.0.0-beta.34"
   },
   "scripts": {
     "start": "node scripts/start.js",
